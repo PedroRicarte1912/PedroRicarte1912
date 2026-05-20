@@ -17,9 +17,6 @@
 
 <h3 align="left">Minhas Estatísticas:</h3>
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=PedroRicarte1912&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="175px" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRicarte1912&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" height="175px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroRicarte1912&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" height="175px" />
 </p>
-
-<br clear="both">
 
